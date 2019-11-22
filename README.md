@@ -2,11 +2,11 @@
 
 ## Chick Weight Data
 
-The ´ChickWeight´are analysed as folows:
+The Â´ChickWeightÂ´are analysed as folows:
 
 + Summary statistics fr weight by Diet and Time
 + Box whisker plot by Diet over Time for weight
 
 ## Further information
 
-Please see https://ilustat.com/shared/Getting-Started-inR.pdf
+Please see https://ilustat.com/shared/Getting-Started-in-R.pdf
